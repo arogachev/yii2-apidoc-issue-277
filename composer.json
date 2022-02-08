@@ -1,0 +1,11 @@
+{
+  "require": {
+    "yiisoft/yii2-apidoc": "3.0.1"
+  },
+  "repositories": [
+    {
+      "type": "composer",
+      "url": "https://asset-packagist.org"
+    }
+  ]
+}
